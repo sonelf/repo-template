@@ -8,9 +8,9 @@
 
 ## Team Members
 
-- Sonya Fucci'20, Bryn Mawr College
-- Elia Anagnostou'21, Bryn Mawr College
-- Haley Nolan'21, Bryn Mawr College
+- Sonya Fucci'20, Bryn Mawr College, Computer Science Major
+- Elia Anagnostou'21, Bryn Mawr College, Computer Science Major
+- Haley Nolan'21, Bryn Mawr College, Computer Science Major
 
 ## Project Description
 
