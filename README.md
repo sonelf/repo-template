@@ -36,7 +36,7 @@ Next steps would be:
 
 1) If a dining hall is closed, figuring out when it will be open.
 2) Extracting the information directly from the websites 
-3) Maybe instead of Android 
+3) Expand to more platforms/the www
 ## License
 
 *This repository includes an [unlicense](http://unlicense.org/) statement though you may want [to choose a different license](https://choosealicense.com/).*
