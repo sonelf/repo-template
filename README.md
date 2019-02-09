@@ -4,34 +4,39 @@
 
 ## Team Name
 
-*Your name here!*
+":cancer: :aquarius: :cancer: "
 
 ## Team Members
 
-- Teammate 1, School
-- Teammate 2, School
-- Teammate 3, School
+- Sonya Fucci'20, Bryn Mawr College
+- Elia Anagnostou'21, Bryn Mawr College
+- Haley Nolan'21, Bryn Mawr College
 
 ## Project Description
 
-*A clear statement of the challenges/issues/problems/gaps your project engages as well as a brief, high-level description of how your project engage the areas you've identified. What is the value of your approach? Who are the intended users?*
+This project is inspired by Sonya's freshman year roommate, Evelyn Ferrall, who would constantly ask Sonya whether the dining hall was open and will probably never get around the memorizing the hours. This app solves as simple of a problem as it sounds: Is the dining hall open, and if so, which one?
 
 ## Protoype Summary
 
-*Describe the basic functionality of your prototype. What are the features you were able to implement? What features would you like to implement?*
+This is a mobile app created on Android Studio written in Java. There are two buttons; one for each of the two dining halls at Bryn Mawr College (Erdman and New Dorm). When a user clicks one, the app will determine whether the dining hall is currently open or not, and tells the user the appropriate response. If the dining hall is open, there will be a link to view the mobile-friendly menu webpage.
+
+We would have liked to extract the Dining hall hours from the original web pages, as well as expand to Haverford and Swarthmore College's Dining halls. The data that we are extracting from isn't being read in from a website, but even powerful tools like regular expressions would have made this a time consuming and tedious task.
 
 ## Live URLs
 
-*List any URLs relevant to demonstrating your prototype*
+Demo video is in the presentation!
 
 ## Presentation
 
-*List any links to your presentation or any related visuals you want to share.*
+https://docs.google.com/presentation/d/1ehl2dlSjcIVqcI53MYQSvQmiwOOEiJplYiSZt85tQ74/edit?ts=5c5f3f3b#slide=id.g4edcc0c884_0_5
 
 ## Next Steps
 
-*What do you need to do next to turn this prototype into a working solution?*
+Next steps would be: 
 
+1) If a dining hall is closed, figuring out when it will be open.
+2) Extracting the information directly from the websites 
+3) Maybe instead of Android 
 ## License
 
 *This repository includes an [unlicense](http://unlicense.org/) statement though you may want [to choose a different license](https://choosealicense.com/).*
